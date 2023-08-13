@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Anfang russische Übersetzung
 
 echo "Hallo Welt"
 
