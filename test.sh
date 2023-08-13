@@ -2,11 +2,11 @@
 
 # Anfang russische Übersetzung
 
-echo "Hallo Welt"
+echo "Привет мир"
 
 
-echo "Adios"
+echo "Пока"
 
 
-echo "Jetzt sind wir auch auf github"
+echo "Теперь мы на гитхабе"
 
