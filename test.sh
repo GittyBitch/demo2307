@@ -1,11 +1,11 @@
 #!/bin/bash
 
 
-echo "Hallo Welt"
+echo "Hello World"
 
 
-echo "Adios"
+echo "Bye bye"
 
 
-echo "Jetzt sind wir auch auf github"
+echo "hosted on github"
 
