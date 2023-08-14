@@ -1,14 +1,14 @@
 #!/bin/bash
 
 
-echo "Hallo Welt"
+echo "Tachschöööö Welt"
 
 
-echo "Adios"
+echo "Tschööö"
 
 
-echo "Jetzt sind wir auch auf github"
+echo "Jetzt sind wir uch uff github"
 
 echo "Neue Veränderng"
 
-echo "Ich war hier"
+echo "I wa hior"
