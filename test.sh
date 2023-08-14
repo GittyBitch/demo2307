@@ -12,3 +12,6 @@ echo "Jetzt sind wir auch auf github"
 echo "Neue Veränderng"
 
 echo "Ich war hier"
+
+echo "Ich auch"
+
