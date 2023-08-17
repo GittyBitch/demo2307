@@ -1,4 +1,4 @@
-
+print ("Willkommen")
 Liste = ["Hamburg","Köln",3,4,5]
 print ( Liste[1] )
 
