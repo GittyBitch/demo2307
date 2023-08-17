@@ -8,11 +8,11 @@ Person = {
         "name": "Karl-Heinz",
         "postleitzahl": "11111",
         "strasse": "weg 8",
-        "expartner": ["Bernd", "Adolf", "Benny", "der andere Bernd"],
+        "sexpartner": ["Bernd", "Adolf", "Benny", "der andere Bernd"],
 }
 
 print ( Person["postleitzahl"] ) 
-print ( Person["expartner"] [0]) 
+print ( Person["sexpartner"] [0]) 
 
 
 
