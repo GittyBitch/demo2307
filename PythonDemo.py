@@ -1,13 +1,13 @@
 
-Liste = [1,2,3,4,5]
+Liste = ["Hamburg",2,3,4,5]
 print( Liste[0] )
 
 
 Person = {
 
-        "name": "Heinrich",
+        "name": "Boris",
         "plz": "11111"
 }
 
-print ( Person["name"] ) 
+#print ( Person["plz"] ) 
 
