@@ -1,18 +1,12 @@
-print ("Willkommen")
-Liste = ["Hamburg","Köln",3,4,5]
-print ( Liste[1] )
+print ("Penisse sind hässlich")
 
 
-Person = {
 
-        "name": "Karl-Heinz",
-        "postleitzahl": "11111",
-        "strasse": "weg 8",
-        "sexpartner": ["Bernd", "Adolf", "Benny", "der andere Bernd"],
-}
-
-print ( Person["postleitzahl"] ) 
-print ( Person["sexpartner"] [0]) 
-print ("adios")
+print ("ajdgfosiheri ugohbijkrnbh
 
 
+sdagw<köohtgnr buipe4wh5zt9i8ohew
+
+
+kparwgehj poizh9ieuhrzi
+")
