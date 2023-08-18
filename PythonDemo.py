@@ -5,7 +5,7 @@ print ("Willkommen")
 Liste = ["Hamburg","Köln",3,4,5]
 print ( Liste[1] )
 
-dateiname = "Infos.json"
+dateiname = "Infos2.json"
 with open(dateiname, "r") as read_file:
     Person=json.load(read_file)
 
